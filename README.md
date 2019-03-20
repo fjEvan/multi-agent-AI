@@ -1,7 +1,8 @@
 # multi-agent-AI
-a multi-agent artificial intelligence project using machine learning techniques and game theroy
+A multi-agent artificial intelligence project using machine learning techniques and game theroy
 
-Training and tuning a model to predict the probability of an Ad being clicked. Develop online bidding algos to bid and get as many impressions and clicks as possible.   
+Training and tuning a model to predict the probability of an Ad being clicked. 
+Develop online bidding algos to bid and get as many impressions and clicks as possible.   
 
 Dataset: online Ads data, a .csv file
 Columns include: click,	weekday, hour, bidid, userid, useragent, IP, region, city, adexchange,	domain,	url, urlid, slotid,	slotwidth, slotheight,	slotvisibility,	slotformat,	slotprice, creative, bidprice, payprice, keypage, advertiser, usertag
